@@ -80,3 +80,5 @@ Always remember: safety first. Stay informed, prioritize your privacy, and adher
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/plugins/pad.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
   
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/plugins/perspective.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  18.09.2025 link is active
